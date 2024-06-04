@@ -1,0 +1,12 @@
+id = "luau"
+name = "Luau"
+version = "0.0.1"
+schema_version = 1
+authors = ["ThePotato"]
+description = "Support for the Luau language."
+repository = "https://github.com/ThePotato97/zed-luau"
+
+
+[grammars.luau]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-luau.git"
+commit = "5aa9b88a8e3327276ec6e72de997f04ac80b1ae4"
